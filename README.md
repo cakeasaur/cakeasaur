@@ -17,4 +17,4 @@
 
 ## stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=cakeasaur&show_icons=true&theme=dark&hide_border=true&hide=stars,issues"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cakeasaur&show_icons=true&theme=dark&hide_border=true&hide=stars,issues&cache_seconds=1800"/>
